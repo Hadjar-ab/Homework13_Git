@@ -1,0 +1,12 @@
+
+
+
+Threads
+1. 1-dən 1000-dək elementlərin cəmini executor service ilə və ya adi qaydada 5 thread
+arasında paylamaqla tapın
+
+2. Öz classınızı yaradın və həm Thread classından extends etməklə həm də Runnable
+interface-dən implement etmək ilə hər iki variant yazın və run methodunun daxilində
+hər hansı ifadə çapa verin
+
+3. 5 san-dən bir ekrana “hello world” yazan proqram tərtib edin
